@@ -1,0 +1,1 @@
+Project to practice flexbox, followed by course [Flexbox Crash Course 2022](https://www.youtube.com/watch?v=3YW65K6LcIA)
